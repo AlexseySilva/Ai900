@@ -1,0 +1,15 @@
+Link sobre Visão Computacional
+https://learn.microsoft.com/pt-br/training/paths/explore-computer-vision-microsoft-azure/
+
+Acessar o link abaixo e fazer login com seu email e senha:
+https://msle.learnondemand.net/
+
+Roteiro do laboratório de reconhecimento de caracteres
+https://github.com/MicrosoftLearning/AI-900-AIFundamentals.pt-BR/blob/main/Instructions/03d-read-text-computer-vision.md
+
+
+Roteiro do laboratório de reconhecimento de face
+https://github.com/MicrosoftLearning/AI-900-AIFundamentals.pt-BR/blob/main/Instructions/03c-create-face-solutions.md
+
+
+
