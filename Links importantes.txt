@@ -1,0 +1,19 @@
+Learn AI-900:
+https://learn.microsoft.com/pt-br/certifications/exams/ai-900/
+
+Eventos Microsoft:
+https://events.microsoft.com/pt-br/allevents/?language=Português&clientTimeZone=1
+
+WhizCard:
+https://www.whizlabs.com/blog/wp-content/uploads/2021/01/WhizCard-AI-900.pdf?utm_source=blog&utm_medium=pdf&utm_campaign=ai900whizcard
+
+Laboratorios:
+https://msle.learnondemand.net
+Chave CA9B183802574C6A
+
+Laboratórios em portugues
+Laboratório 1:
+https://github.com/MicrosoftLearning/AI-900-AIFundamentals.pt-BR/blob/main/Instructions/02-module-02.md
+
+Laboratório 3:
+https://github.com/MicrosoftLearning/AI-900-AIFundamentals.pt-BR/blob/main/Instructions/03-module-03.md

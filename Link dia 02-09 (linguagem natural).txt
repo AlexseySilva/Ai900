@@ -1,0 +1,19 @@
+Conteúdo do dia
+https://learn.microsoft.com/pt-br/training/paths/explore-natural-language-processing/
+
+Site para acessar os laboratórios
+https://msle.learnondemand.net
+
+
+Primeiro: Roteiro do laboratório de análise de sentimento
+https://github.com/MicrosoftLearning/AI-900-AIFundamentals.pt-BR/blob/main/Instructions/04-module-04.md
+
+Segundo: Roteiro do laboratório de tradução de texto
+https://github.com/MicrosoftLearning/AI-900-AIFundamentals.pt-BR/blob/main/Instructions/04b-translate-text-and-speech.md
+
+Formulários de perguntas sobre Linguagem Natural
+https://forms.gle/3FjQA8SqKQePdvBf7
+https://forms.gle/k8nj7BcMSrDpFND1A
+
+Completar os conteúdos do site Learn Microsoft
+https://learn.microsoft.com/pt-br/certifications/exams/ai-900/
